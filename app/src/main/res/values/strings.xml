@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rusName">Имя</string>
+    <string name="rusSurname">Фамилия</string>
+    <string name="rusDate">Дата рождения</string>
+    <string name="rusPassword">Пароль</string>
+    <string name="rusRepPassword">Повторите пароль</string>
+    <string name="rusConfirm">Подтвердить</string>
+    <string name="rusErrorEmpty">Поле не может быть пустым</string>
+    <string name="rusErrorToolong">Вас удивительно сложно назвать!</string>
+    <string name="rusErrorPasswordWeak">Пароль слишком слабый</string>
+    <string name="rusErrorPasswordNE">Пароли не совпадают</string>
+</resources>
